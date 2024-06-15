@@ -1,6 +1,6 @@
 ### Hi, Welcome! This space is about me 😸👨‍🎓
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+4+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Bonjour+🤙,+I'm+Gunther;+A+Persevering+Software+Developer+Student🧑‍💻;+💡+On+the+way+to+FullStack🎓;+Tecnology+lover+🎯;+pro+open+source🌐;)
 
 My name is Gunther Nettel Rosario. I am from Mexico! 🌎 
 
