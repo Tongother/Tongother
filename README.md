@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Profile views](https://gpvc.arturio.dev/Tongother)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tongother&show_icons=true&theme=radical)
 
 My name is Gunther Nettel Rosario. I am from Mexico! 🌎 
 
