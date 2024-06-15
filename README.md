@@ -7,6 +7,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
 My name is Gunther Nettel Rosario. I am from Mexico! 🌎 
 
 I am a Bachelor of Engineering in Software Development and Technologies student studying at Universidad Autónoma de Chiapas.🏫🌱
