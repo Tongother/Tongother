@@ -2,7 +2,7 @@
 <h1>Hi, Welcome! This space is about me 😸👨‍🎓</h1>
 
 <p align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6ED00&size=30&center=true&vCenter=true&width=550&height=70&lines=Bonjour+🤙,+I'm+Gunther;Persevering+boy+💪;+A+software+developer+student🧑‍💻;+On+the+way+to+be+FullStack🎓;+Tecnology+lover+🎯;+Pro+open+source🌐;)
+<img src="https://readme-typing-svg.herokuapp.com?color=E6ED00&size=30&center=true&vCenter=true&width=550&height=70&lines=Bonjour+🤙,+I'm+Gunther;Persevering+boy+💪;+A+software+developer+student🧑‍💻;+On+the+way+to+be+FullStack🎓;+Tecnology+lover+🎯;+Pro+open+source🌐;">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
