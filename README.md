@@ -29,7 +29,7 @@ Business Agility | Personal development
 Java OOP | C# OOP | Backend with Java | Git | GitHub | SQL | JavaScript
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tongother&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Tongother&show_icons=true&theme=radical">
 </div>
 
 ### Tolls🎒
