@@ -18,15 +18,18 @@ I love to travel to different places to learn about landscapes, culture, traditi
 
 
 ### Web Pages 🖥🖥️📱
-I have knowledge about the frontend of web pages, using tools like React, Next.js, node.js, npm and basic knowledge in three js libraries for the implementation of 3D objects. 
+I have knowledge about the frontend of web pages, using tools like React, Astro, Vite, Next.js and basic knowledge in three js libraries for the implementation of 3D objects.
+On the backend side, I have worked with Node.js, Express, FastAPI, Django and I’m familiar with relational databases like MySQL and MariaDB, as well as basic concepts of authentication, RESTful APIs, and server deployment.
+
+
 
 
 ### Soft Skills🤺
-Business Agility | Personal development
+Business Agility | Personal development | Agile methodologies | Scrum
 
 
 ### Hard Skills🤺
-Java OOP | C# OOP | Backend with Java | Git | GitHub | SQL | JavaScript
+Java OOP | C# OOP | Python | JavaScript | Git | GitHub | SQL | MySQL | MariaDB | SQL Server | PostgreSQL
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tongother&show_icons=true&theme=radical">
