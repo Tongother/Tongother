@@ -19,6 +19,8 @@ I love to travel to different places to learn about landscapes, culture, traditi
 
 ### Web Pages 🖥🖥️📱
 I have knowledge about the frontend of web pages, using tools like React, Astro, Vite, Next.js and basic knowledge in three js libraries for the implementation of 3D objects.
+
+
 On the backend side, I have worked with Node.js, Express, FastAPI, Django and I’m familiar with relational databases like MySQL and MariaDB, as well as basic concepts of authentication, RESTful APIs, and server deployment.
 
 
