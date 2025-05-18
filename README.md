@@ -17,13 +17,13 @@ My interests in the software area point to cybersecurity, web pages, the cloud a
 I love to travel to different places to learn about landscapes, culture, traditions, history and to learn about emerging technology issues. ✈️🗺️
 
 
-### Web Pages 🖥🖥️📱
-I have knowledge about the frontend of web pages, using tools like React, Astro, Vite, Next.js and basic knowledge in three js libraries for the implementation of 3D objects.
+### Web Pages 🖥️
+I have knowledge about the frontend of web pages, using tools like React, Astro, Tailwind, Bootstrap, Vite, Next.js and basic knowledge in three js libraries for the implementation of 3D objects.
 
+On the backend side, I have worked with Node.js, Express, FastAPI, Django and I’m familiar with Relational Databases and Non-Relational Databases, as well as basic concepts of authentication, RESTful APIs, and server deployment.
 
-On the backend side, I have worked with Node.js, Express, FastAPI, Django and I’m familiar with relational databases like MySQL and MariaDB, as well as basic concepts of authentication, RESTful APIs, and server deployment.
-
-
+### Apps📱
+I have experience developing mobile applications using React Native with the Expo framework, which has allowed me to build, test, and deploy apps efficiently across both Android and iOS platforms.
 
 
 ### Soft Skills🤺
